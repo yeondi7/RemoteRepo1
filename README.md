@@ -1,8 +1,7 @@
 # Git과 GitHub를 위한 프로젝트
 
 ## 1. 프로젝트 소개
-
-SpringFramework MVC 게시판 기능을 주제로 Git과 GitHub Study를 위한 프로젝트
+	SpringFramework MVC 게시판 기능을 주제로 Git과 GitHub Study를 위한 프로젝트
 --
 
 ## 2. 개발기간
